@@ -2,7 +2,7 @@
 raw: 0.9
 endpoint: GET
 metadata:
-  title: Hello world
+  title: Hello world name
   description: Hello world name example
   tags:
     - hello-world
