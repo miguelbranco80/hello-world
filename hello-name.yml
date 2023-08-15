@@ -3,7 +3,7 @@ raw: 0.9
 endpoint: GET
 metadata:
   title: Hello world
-  description: Hello world example
+  description: Hello world name example
   tags:
     - hello-world
 code: snapi
